@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Francesca Tillman",
+        "phone": "(222) 661-1776",
+        "email": "tristique.senectus@yahoo.edu",
+        "address": "P.O. Box 375, 8342 Sem, Avenue"
+    },
+    {
+        "id": "2",
+        "name": "Francis Phelps",
+        "phone": "(849) 681-7221",
+        "email": "iaculis.lacus@google.ca",
+        "address": "986-1573 Est, St."
+    },
+    {
+        "id": "3",
+        "name": "Joshua Drake",
+        "phone": "1-556-667-7192",
+        "email": "fusce@aol.edu",
+        "address": "8301 Ipsum. St."
+    },
+    {
+        "id": "4",
+        "name": "Velma Lang",
+        "phone": "1-823-732-3335",
+        "email": "turpis@aol.org",
+        "address": "P.O. Box 157, 2468 Purus Ave"
+    },
+    {
+        "id": "5",
+        "name": "Kalia Valdez",
+        "phone": "1-755-773-2075",
+        "email": "odio.sagittis.semper@outlook.edu",
+        "address": "2161 Eget, St."
+    },
+    {
+        "id": "6",
+        "name": "Rodrigo Silva",
+        "phone": "777-777-7777",
+        "email": "rodrigo@rodrigo.com",
+        "address": "123 Mains St"
+    }
+]

@@ -9,7 +9,21 @@ Below are the request methods;
 
 `/names/:id` - GET
 - Return a single client by its id
-    - exempla response from `/names/2
+    - example response from `/names/2`:
+
+```
+{
+        "id": "3",
+        "name": "Joshua Drake",
+        "phone": "1-556-667-7192",
+        "email": "fusce@aol.edu",
+        "address": "8301 Ipsum. St."
+    },
+```
+
+`/names` - POST
+- Accepts a `names` object
+    - example object:
 
 ```
 {

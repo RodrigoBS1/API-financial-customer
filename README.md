@@ -1,4 +1,4 @@
-##LAB API customer contact for financial Advice
+##LAB API clients contact for financial Advice
 
 This is an API with the list of financial advisory clients / contact
 

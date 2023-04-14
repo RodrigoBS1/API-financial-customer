@@ -13,12 +13,12 @@ Below are the request methods;
 
 ```
 {
-        "id": "3",
-        "name": "Joshua Drake",
-        "phone": "1-556-667-7192",
-        "email": "fusce@aol.edu",
-        "address": "8301 Ipsum. St."
-    },
+    "id": "3",
+    "name": "Joshua Drake",
+    "phone": "1-556-667-7192",
+    "email": "fusce@aol.edu",
+    "address": "8301 Ipsum. St."
+},
 ```
 
 `/names` - POST
@@ -27,10 +27,10 @@ Below are the request methods;
 
 ```
 {
-        "id": "3",
-        "name": "Joshua Drake",
-        "phone": "1-556-667-7192",
-        "email": "fusce@aol.edu",
-        "address": "8301 Ipsum. St."
-    },
+    "id": "3",
+    "name": "Joshua Drake",
+    "phone": "1-556-667-7192",
+    "email": "fusce@aol.edu",
+    "address": "8301 Ipsum. St."
+},
 ```
